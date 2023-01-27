@@ -40,6 +40,15 @@
 ![image](https://user-images.githubusercontent.com/40915944/215154495-5f971430-e443-4f58-a6e4-708711ee12c5.png)
 
 #################
+
 1- create declarative in jenkins GUI pipeline for your own repo to do "ls"
+
+![image](https://user-images.githubusercontent.com/40915944/215159173-34f247df-2855-4a2d-8755-ef7790fee4ac.png)
+![image](https://user-images.githubusercontent.com/40915944/215162974-d234df76-c9d7-416f-bd29-ecfb84665816.png)
+![image](https://user-images.githubusercontent.com/40915944/215163030-6d8631a2-7d57-4146-94db-16306a41170f.png)
+![image](https://user-images.githubusercontent.com/40915944/215163200-e9cdde50-2593-4b03-9b6b-1a5e946d7e6a.png)
+
 2- create scripted in jenkins GUI pipeline for your own repo to do "ls"
+
+
 3- create the same with jenkinsfile in your branches as multibranch pipeline
