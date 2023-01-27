@@ -1,4 +1,4 @@
-# Jenkines-Day-01
+# Jenkins-Day-01
 
 ### Lab 01
 
@@ -50,5 +50,16 @@
 
 2- create scripted in jenkins GUI pipeline for your own repo to do "ls"
 
+![image](https://user-images.githubusercontent.com/40915944/215166912-34891205-6a34-4c03-b06a-cb67e1dd21d0.png)
+![image](https://user-images.githubusercontent.com/40915944/215166976-8ba31695-4c66-4e72-aeb3-f9b1d874a4c1.png)
+![image](https://user-images.githubusercontent.com/40915944/215167082-6d93d3a4-4263-47b3-a5ff-c8c4c05c28c6.png)
 
 3- create the same with jenkinsfile in your branches as multibranch pipeline
+
+![image](https://user-images.githubusercontent.com/40915944/215168368-062624c2-310c-4d25-ac44-d046e018b2af.png)
+![image](https://user-images.githubusercontent.com/40915944/215182125-10cbbfd9-ea61-4da3-b557-47392dee9f0b.png)
+![image](https://user-images.githubusercontent.com/40915944/215182279-bb5d45ad-4f35-4854-8a74-cd972d868dab.png)
+![image](https://user-images.githubusercontent.com/40915944/215182353-56d8b7c4-20c0-411d-b07e-ef39ae961b08.png)
+![image](https://user-images.githubusercontent.com/40915944/215182815-187d6714-24af-4ace-b134-3dbb2e35659a.png)
+![image](https://user-images.githubusercontent.com/40915944/215182962-1e87f84e-9b32-4fc8-8be4-b916bbb9818e.png)
+
