@@ -31,7 +31,13 @@
 ![image](https://user-images.githubusercontent.com/40915944/215145495-0d92373b-3996-4ae7-a833-67f164baf7c0.png)
 ![image](https://user-images.githubusercontent.com/40915944/215145587-0c04e700-b7e6-4073-8e41-abbbdccb1ba2.png)
 ![image](https://user-images.githubusercontent.com/40915944/215148584-932db84a-201e-433d-a6bc-c778f4b35c56.png)
-![image](https://user-images.githubusercontent.com/40915944/215149783-7dcb5e35-c8fd-4ebd-89b6-c4a89ef75ab1.png)
+![image](https://user-images.githubusercontent.com/40915944/215152272-ce4b2e87-09fd-498a-af4e-13b793fb35b3.png)
+![image](https://user-images.githubusercontent.com/40915944/215152404-0808fd79-4dcc-4f71-93af-f1f7094c52a5.png)
+![image](https://user-images.githubusercontent.com/40915944/215153461-556a84ae-bdd3-449b-b00b-9fa0859faa7f.png)
+![image](https://user-images.githubusercontent.com/40915944/215153585-78c984ab-6f70-4e32-a8f0-e0f911e74e1e.png)
+![image](https://user-images.githubusercontent.com/40915944/215153649-d3eb0058-ba96-489c-830e-a89974f8c271.png)
+![image](https://user-images.githubusercontent.com/40915944/215153948-36c8fbdf-8770-4782-829f-8531246f4216.png)
+![image](https://user-images.githubusercontent.com/40915944/215154495-5f971430-e443-4f58-a6e4-708711ee12c5.png)
 
 #################
 1- create declarative in jenkins GUI pipeline for your own repo to do "ls"
