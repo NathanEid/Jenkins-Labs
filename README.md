@@ -23,7 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/40915944/215128833-08519750-3536-475d-a352-e55789cd8fa4.png)
 ![image](https://user-images.githubusercontent.com/40915944/215129292-f1262a4f-bad8-4923-8cc4-88f9364a9241.png)
-![image](https://user-images.githubusercontent.com/40915944/215130008-2d3b32d2-867e-4d47-86e0-1f063bb608b4.png)
+![image](https://user-images.githubusercontent.com/40915944/215190005-23b6c0a5-46c6-4c91-a121-65d0605d561f.png)
 ![image](https://user-images.githubusercontent.com/40915944/215130231-9023998d-21b8-4ae7-b309-4981082d4045.png)
 
 5- create free style pipeline and link it to private git repo(inside it create directory and create file with "hello world")
