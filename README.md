@@ -28,6 +28,10 @@
 
 5- create free style pipeline and link it to private git repo(inside it create directory and create file with "hello world")
 
+![image](https://user-images.githubusercontent.com/40915944/215145495-0d92373b-3996-4ae7-a833-67f164baf7c0.png)
+![image](https://user-images.githubusercontent.com/40915944/215145587-0c04e700-b7e6-4073-8e41-abbbdccb1ba2.png)
+![image](https://user-images.githubusercontent.com/40915944/215148584-932db84a-201e-433d-a6bc-c778f4b35c56.png)
+
 #################
 1- create declarative in jenkins GUI pipeline for your own repo to do "ls"
 2- create scripted in jenkins GUI pipeline for your own repo to do "ls"
