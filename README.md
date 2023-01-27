@@ -31,6 +31,7 @@
 ![image](https://user-images.githubusercontent.com/40915944/215145495-0d92373b-3996-4ae7-a833-67f164baf7c0.png)
 ![image](https://user-images.githubusercontent.com/40915944/215145587-0c04e700-b7e6-4073-8e41-abbbdccb1ba2.png)
 ![image](https://user-images.githubusercontent.com/40915944/215148584-932db84a-201e-433d-a6bc-c778f4b35c56.png)
+![image](https://user-images.githubusercontent.com/40915944/215149783-7dcb5e35-c8fd-4ebd-89b6-c4a89ef75ab1.png)
 
 #################
 1- create declarative in jenkins GUI pipeline for your own repo to do "ls"
