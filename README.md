@@ -20,8 +20,20 @@
 
 #################
 1- create docker file to build image for jenkins slave
-2- create container from this image and configure ssh 
+2- create container from this image and configure ssh
+
+![image](https://user-images.githubusercontent.com/40915944/215291769-5fca4fa9-382f-4be0-8ad7-6872f9eae374.png)
+![image](https://user-images.githubusercontent.com/40915944/215291139-2158b85f-dd48-45bf-9f5d-a45fc0d41e9a.png)
+![image](https://user-images.githubusercontent.com/40915944/215291235-61703aff-b24f-49d6-a41f-d0eded8a6acf.png)
+![image](https://user-images.githubusercontent.com/40915944/215291355-45ffe810-fa3b-487f-b77b-8535fffaa8ed.png)
+
 3 from jenkins master create new node with the slave container
+
+![image](https://user-images.githubusercontent.com/40915944/215289648-9a501b9c-36a1-4d86-8e7a-6df7d15f721e.png)
+![image](https://user-images.githubusercontent.com/40915944/215291395-510631a6-03e5-46ce-8fd8-7c5e28c7cc58.png)
+![image](https://user-images.githubusercontent.com/40915944/215291406-25185a3b-7a00-483e-97ce-4a829a80090b.png)
+
+
 4- integrate slack with jenkins
 5- send slack message when stage in your pipeline is successful
 6- install audit logs plugin and test it
