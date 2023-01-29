@@ -23,12 +23,10 @@
 
 ![image](https://user-images.githubusercontent.com/40915944/215353832-2333fc91-bd97-4644-be80-b00059a800d9.png)
 
-![image](https://user-images.githubusercontent.com/40915944/215353972-78d3041d-2796-4b76-95ee-4e89ee49f04f.png)
-![image](https://user-images.githubusercontent.com/40915944/215354006-9ef119f5-0710-47b9-901c-73d677475e12.png)
-
 2- create container from this image and configure ssh
 
-![image](https://user-images.githubusercontent.com/40915944/215291769-5fca4fa9-382f-4be0-8ad7-6872f9eae374.png)
+![image](https://user-images.githubusercontent.com/40915944/215353972-78d3041d-2796-4b76-95ee-4e89ee49f04f.png)
+![image](https://user-images.githubusercontent.com/40915944/215354006-9ef119f5-0710-47b9-901c-73d677475e12.png)
 ![image](https://user-images.githubusercontent.com/40915944/215291139-2158b85f-dd48-45bf-9f5d-a45fc0d41e9a.png)
 ![image](https://user-images.githubusercontent.com/40915944/215291235-61703aff-b24f-49d6-a41f-d0eded8a6acf.png)
 ![image](https://user-images.githubusercontent.com/40915944/215291355-45ffe810-fa3b-487f-b77b-8535fffaa8ed.png)
