@@ -15,6 +15,9 @@
 ![image](https://user-images.githubusercontent.com/40915944/215273886-f25a6d14-e9f1-4e0f-b4c8-8c61ce2a3f4a.png)
 ![image](https://user-images.githubusercontent.com/40915944/215276015-f85d7046-2819-42d4-bcfe-deb84698e097.png)
 ![image](https://user-images.githubusercontent.com/40915944/215276059-f72be395-f05d-43ae-abcf-ae29ec37dd7b.png)
+![Screenshot from 2023-01-28 17-51-46](https://user-images.githubusercontent.com/40915944/215354373-7f9ddf89-81f5-4686-ab51-1ef24147ec37.png)
+![Screenshot from 2023-01-28 17-53-09](https://user-images.githubusercontent.com/40915944/215354383-71e761a9-85b6-4be3-9b17-2fe04c6e3529.png)
+
 
 #################
 1- create docker file to build image for jenkins slave
@@ -26,8 +29,6 @@
 ![image](https://user-images.githubusercontent.com/40915944/215353972-78d3041d-2796-4b76-95ee-4e89ee49f04f.png)
 ![image](https://user-images.githubusercontent.com/40915944/215354006-9ef119f5-0710-47b9-901c-73d677475e12.png)
 ![image](https://user-images.githubusercontent.com/40915944/215291139-2158b85f-dd48-45bf-9f5d-a45fc0d41e9a.png)
-![image](https://user-images.githubusercontent.com/40915944/215291235-61703aff-b24f-49d6-a41f-d0eded8a6acf.png)
-![image](https://user-images.githubusercontent.com/40915944/215291355-45ffe810-fa3b-487f-b77b-8535fffaa8ed.png)
 
 3 from jenkins master create new node with the slave container
 
