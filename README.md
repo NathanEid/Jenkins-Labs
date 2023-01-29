@@ -32,10 +32,10 @@
 
 3 from jenkins master create new node with the slave container
 
-![image](https://user-images.githubusercontent.com/40915944/215289648-9a501b9c-36a1-4d86-8e7a-6df7d15f721e.png)
-![image](https://user-images.githubusercontent.com/40915944/215291395-510631a6-03e5-46ce-8fd8-7c5e28c7cc58.png)
-![image](https://user-images.githubusercontent.com/40915944/215291406-25185a3b-7a00-483e-97ce-4a829a80090b.png)
-
+![image](https://user-images.githubusercontent.com/40915944/215354472-f46af224-679f-43e9-bddd-36f8f8b19e20.png)
+![image](https://user-images.githubusercontent.com/40915944/215354488-48a0e58f-fd40-4239-a4ef-3ec211479507.png)
+![image](https://user-images.githubusercontent.com/40915944/215354538-61e8519e-67a6-44fa-9589-7c079d459dd5.png)
+![image](https://user-images.githubusercontent.com/40915944/215354562-a65b96ee-2d15-4b2d-9b29-ffbcb39176ad.png)
 
 4- integrate slack with jenkins
 5- send slack message when stage in your pipeline is successful
