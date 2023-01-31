@@ -58,4 +58,10 @@
 ![image](https://user-images.githubusercontent.com/40915944/215888405-aeddb6b9-aeab-4da5-a7ec-764e60d4890e.png)
 
 6- install audit logs plugin and test it
+
+![image](https://user-images.githubusercontent.com/40915944/215889046-7c372ec3-0215-4ed7-80ff-e4a1848250f7.png)
+![image](https://user-images.githubusercontent.com/40915944/215889129-b42212be-472f-45cb-a182-51f168022729.png)
+![image](https://user-images.githubusercontent.com/40915944/215889656-5b507293-1537-42cb-a7f4-474e9cc76e60.png)
+![image](https://user-images.githubusercontent.com/40915944/215889694-6a2f1f6b-9318-4923-ac43-5a8107ed5e47.png)
+
 7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your dockerhub
