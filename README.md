@@ -52,5 +52,10 @@
 ![image](https://user-images.githubusercontent.com/40915944/215877919-1b3aa990-936a-4f21-84e5-9e079a1570bf.png)
 
 5- send slack message when stage in your pipeline is successful
+
+![image](https://user-images.githubusercontent.com/40915944/215888233-8db9d00a-1042-42a1-a963-daea315e3042.png)
+![image](https://user-images.githubusercontent.com/40915944/215888325-3590950b-c859-45bf-8e91-7f4f74bcd18b.png)
+![image](https://user-images.githubusercontent.com/40915944/215888405-aeddb6b9-aeab-4da5-a7ec-764e60d4890e.png)
+
 6- install audit logs plugin and test it
 7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your dockerhub
