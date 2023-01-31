@@ -40,6 +40,7 @@
 ![image](https://user-images.githubusercontent.com/40915944/215843674-6c6f62ae-b4b9-4728-9048-bab7c4fdbadc.png)
 ![image](https://user-images.githubusercontent.com/40915944/215843449-14475135-8423-458a-8597-5f5f1d0e6215.png)
 ![image](https://user-images.githubusercontent.com/40915944/215843508-8ba0518c-a067-4691-bc19-802e89afc840.png)
+![image](https://user-images.githubusercontent.com/40915944/215845473-4ec7c878-9b71-4cdf-838d-4dc2c3f23e44.png)
 ![image](https://user-images.githubusercontent.com/40915944/215843855-10c265ea-5694-480c-9ad8-9cb77dcdd182.png)
 
 4- integrate slack with jenkins
