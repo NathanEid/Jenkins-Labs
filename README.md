@@ -31,7 +31,16 @@
 
 3 from jenkins master create new node with the slave container
 
-
+![image](https://user-images.githubusercontent.com/40915944/215841757-6222e364-be7b-4f22-bc78-6a14e9219b2b.png)
+![image](https://user-images.githubusercontent.com/40915944/215842233-e4400b10-2ac7-4f37-8795-65573ed8b5f3.png)
+![image](https://user-images.githubusercontent.com/40915944/215842353-4d4c2221-2d18-4083-88ba-d0c6035a287f.png)
+![image](https://user-images.githubusercontent.com/40915944/215842485-5ebcd2ea-9d02-44a0-a6fd-3e5bcf2aa345.png)
+![image](https://user-images.githubusercontent.com/40915944/215842698-4c33c521-caef-4c0f-b289-893ec6d88003.png)
+![image](https://user-images.githubusercontent.com/40915944/215843132-a7b3c629-32dd-434b-b40e-4741ae2c01bd.png)
+![image](https://user-images.githubusercontent.com/40915944/215843674-6c6f62ae-b4b9-4728-9048-bab7c4fdbadc.png)
+![image](https://user-images.githubusercontent.com/40915944/215843449-14475135-8423-458a-8597-5f5f1d0e6215.png)
+![image](https://user-images.githubusercontent.com/40915944/215843508-8ba0518c-a067-4691-bc19-802e89afc840.png)
+![image](https://user-images.githubusercontent.com/40915944/215843855-10c265ea-5694-480c-9ad8-9cb77dcdd182.png)
 
 4- integrate slack with jenkins
 5- send slack message when stage in your pipeline is successful
