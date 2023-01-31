@@ -23,10 +23,11 @@
 1- create docker file to build image for jenkins slave
 
 ![image](https://user-images.githubusercontent.com/40915944/215832932-6ad62f2a-2cab-4419-b38a-669cb859f4b1.png)
+![image](https://user-images.githubusercontent.com/40915944/215837654-9a8c2ec4-7224-4ad0-89e4-a45e055174cd.png)
 
 2- create container from this image and configure ssh
 
-
+![image](https://user-images.githubusercontent.com/40915944/215840377-bccc72cf-03bc-454b-b3f6-e72deefd4a87.png)
 
 3 from jenkins master create new node with the slave container
 
