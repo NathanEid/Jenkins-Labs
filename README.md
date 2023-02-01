@@ -65,3 +65,7 @@
 ![image](https://user-images.githubusercontent.com/40915944/215889694-6a2f1f6b-9318-4923-ac43-5a8107ed5e47.png)
 
 7- fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your dockerhub
+
+![image](https://user-images.githubusercontent.com/40915944/216061058-c4c82a94-4080-4e6c-bbb6-39489ba0a2fd.png)
+![image](https://user-images.githubusercontent.com/40915944/216061203-56f66216-2df7-43d1-856f-5cbf63edb9e1.png)
+
